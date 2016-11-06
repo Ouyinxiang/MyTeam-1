@@ -30,7 +30,7 @@ dependencies {
     compile 'com.android.support:cardview-v7:23.0.0'
     compile 'com.android.support:recyclerview-v7:23.0.0'
 
-    //rxjava相关依赖=====================================================进行异步处理，它可以把网络请求放到子线程中去执行，然后把请求结果放到主线程中去处理
+   /* //rxjava相关依赖=====================================================进行异步处理，它可以把网络请求放到子线程中去执行，然后把请求结果放到主线程中去处理
     compile 'io.reactivex:rxjava:1.2.1'
     compile 'io.reactivex:rxandroid:1.2.1'
 //retrofit相关依赖==================================================Retrofit主要负责请求的数据和请求的结果，使用接口的形式来呈现
@@ -39,5 +39,5 @@ dependencies {
     compile 'com.squareup.retrofit2:adapter-rxjava:2.1.0'
 //okhttp相关依赖====================================================主要负责网络请求的过程，打印log，网络不稳定的状态下进行重连接，设置超时等......换句话说，retrofit处理头尾，okhttp负责中间部分
     compile 'com.squareup.okhttp3:okhttp:3.4.1'
-    compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'*/
 }
